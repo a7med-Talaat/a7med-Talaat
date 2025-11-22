@@ -29,13 +29,6 @@ I'm a Data Scientist with strong experience in **Python, Data Analysis, and Mach
 
 ---
 
-## 🔭 Current Focus
-- Mastering **Node.js ↔ Angular** integration  
-- Building structured backends with **MongoDB & Mongoose**  
-- Creating full-stack applications enhanced by **machine learning models**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,4 +38,5 @@ I'm a Data Scientist with strong experience in **Python, Data Analysis, and Mach
 ---
 
 ### ⭐ If you like my work, feel free to star a repo or connect with me!
+
 
