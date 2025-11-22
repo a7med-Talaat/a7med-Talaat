@@ -28,5 +28,5 @@ Goal: Bridging the gap between backend data processing and frontend user experie
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=a7med-Talaat&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Da7med-Talaat&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </p>
+
