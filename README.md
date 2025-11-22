@@ -44,13 +44,5 @@ I'm a Data Scientist with strong experience in **Python, Data Analysis, and Mach
 
 ---
 
-## 📬 Let’s Connect
-
-<p align="left">
-<a href="https://github.com/a7med-Talaat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ahmed-talaat-3b5a02256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
 ### ⭐ If you like my work, feel free to star a repo or connect with me!
+
