@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-020408?style=flat-square&logo=vercel&logoColor=4f8dff)](https://ahmedtal3at.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-020408?style=flat-square&logo=linkedin&logoColor=8b5cf6)](https://linkedin.com/in/ahmed-talaat-at)
 [![Email](https://img.shields.io/badge/Gmail-020408?style=flat-square&logo=gmail&logoColor=06d6a0)](mailto:ahmedtalaatsalah05@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=a7med-Talaat&style=flat-square&color=4f8dff&label=views)
 
 </div>
 
