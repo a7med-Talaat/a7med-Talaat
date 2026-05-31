@@ -27,9 +27,7 @@ me = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7med-Talaat&theme=github_dark" width="100%"/>
 
-<img src="https://streak-stats.demolab.com/?user=a7med-Talaat&theme=dark&background=020408&fire=4f8dff&ring=8b5cf6&currStreakNum=06d6a0&sideNums=4f8dff&sideLabels=7a8599&dates=7a8599&hide_border=true" width="48%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a7med-Talaat&theme=github_dark" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=a7med-Talaat&theme=dark&background=020408&fire=4f8dff&ring=8b5cf6&currStreakNum=06d6a0&sideNums=4f8dff&sideLabels=7a8599&dates=7a8599&hide_border=true" width="70%"/>
 
 </div>
 
