@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7med-Talaat&bg_color=020408&color=4f8dff&line=8b5cf6&point=06d6a0&area=true&hide_border=true" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7med-Talaat&bg_color=020408&color=4f8dff&line=8b5cf6&point=06d6a0&area=true&hide_border=true&custom_title=Ahmed%20Talaat%27s%20Contribution%20Graph" alt="contribution graph" />
 </div>
 <br>
 
