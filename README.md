@@ -22,7 +22,7 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-stats-alpha.vercel.app/api?username=a7med-Talaat&cc=020408&tc=4f8dff&ic=06d6a0&bc=020408" /></td>
+<td><img src="https://github-stats-alpha.vercel.app/api?username=a7med-Talaat&cc=020408&tc=4f8dff&ic=06d6a0&bc=020408&custom_title=Ahmed%20Talaat" /></td>
 <td><img src="https://streak-stats.demolab.com/?user=a7med-Talaat&theme=dark&background=020408&fire=4f8dff&ring=8b5cf6&currStreakNum=06d6a0&sideNums=4f8dff&sideLabels=7a8599&dates=7a8599&hide_border=true" /></td>
 </tr></table>
 
