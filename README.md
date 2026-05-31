@@ -20,7 +20,7 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=a7med-Talaat&show_icons=true&theme=dark&bg_color=020408&text_color=eef2ff&title_color=4f8dff&icon_color=06d6a0&border_color=020408&hide_border=true&custom_title=Ahmed%20Talaat&hide=commits" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=a7med-Talaat&layout=compact&theme=dark&bg_color=020408&text_color=eef2ff&title_color=4f8dff&icon_color=06d6a0&border_color=020408&hide_border=true&custom_title=Top%20Languages" /></td>
 <td><img src="https://streak-stats.demolab.com/?user=a7med-Talaat&theme=dark&background=020408&fire=4f8dff&ring=8b5cf6&currStreakNum=06d6a0&sideNums=4f8dff&sideLabels=7a8599&dates=7a8599&hide_border=true" /></td>
 </tr></table>
 
@@ -41,13 +41,5 @@ Hey there! I'm a **tech enthusiast** who loves turning complex ideas into clean 
 
 And here we go! Let's build something awesome.
 
----
 
-### 🏆 Achievements & Trophies
-
-Here is a live visual tracking of my GitHub progress and milestones:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7med-Talaat&theme=darkhub&no-background=true&no-border=true" alt="github trophies" />
-</div>
 
