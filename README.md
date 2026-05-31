@@ -6,7 +6,7 @@
 <samp align="center">
 <div align="center">
   Built:
-  <a href="https://a7med-talaat.github.io/">portfolio</a> |
+  <a href="https://ahmedtal3at.vercel.app">portfolio</a> |
   <a href="https://github.com/a7med-Talaat/Churn-Prediction-Project">churn predictor pro</a> |
   <a href="https://github.com/a7med-Talaat/movie-review-sentiment-analysis">sentiment analyzer</a>
   <br />
@@ -37,33 +37,8 @@
 
 ---
 
-### 🧠 About Me
+### ⚡ Quick Bytes
 
-I turn raw, messy data into production-grade AI systems that predict, automate, and scale. I specialize in building end-to-end Machine Learning models, natural language processing applications, and automated MLOps pipelines. 
+Hey there! I'm a **tech enthusiast** who loves turning complex ideas into clean code. When I'm not training models or building web apps, you can probably find me **gaming** (deep in immersive worlds and competitive challenges), watching **anime** (always looking for the next great story arc to binge), **reading & writing** (diving into science fiction, tech blogs, and sharing thoughts), or exploring the bleeding edge of AI and gaming tech.
 
-- 📍 Based in Egypt, collaborating with partners globally.
-- ⚡ Focus on explainable, high-performance, and cloud-ready intelligence.
-- 🛠️ Mastered over 40+ tools across the ML and DevOps stack.
-
----
-
-### 🛠️ Core Technology Stack
-
-- **Machine Learning & Deep Learning**: Python, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost, LightGBM
-- **Natural Language Processing**: HuggingFace, NLTK, Sentiment Analysis, Text Classification, LLM Integrations
-- **Data Engineering & Analytics**: Pandas, NumPy, Apache Spark, PostgreSQL, MongoDB, EDA, Business Intelligence
-- **MLOps & DevOps**: Docker, Kubernetes, AWS, Azure, MLflow, Apache Airflow, DVC, GitHub Actions
-- **Web App Development**: FastAPI, Streamlit, Node.js, Semantic HTML5, CSS3, ES6 JavaScript
-
----
-
-### 🚀 Featured Projects
-
-#### 1. 📉 [E-Commerce Churn Predictor Pro](https://github.com/a7med-Talaat/Churn-Prediction-Project)
-Enterprise-grade ML solution predicting high-value customer churn before it happens — utilizing **XGBoost**, **K-Means clustering**, and **SHAP explainability** within an interactive **Streamlit** dashboard that gives business teams real-time, actionable risk signals. Deployed with Docker.
-
-#### 2. 🌌 [CTRL-Sky Weather Prediction System](https://github.com/a7med-Talaat/CTRL-Sky-weather-prediction-system-nasaa-space-apps-challenge-solution-)
-Advanced weather prediction system built for the **NASA Space Apps Challenge** — using machine learning and massive geospatial datasets for high-precision Earth observation forecasts, deployed on **AWS** with automated data ingestion from NASA satellite APIs.
-
-#### 3. 💬 [Movie Review Sentiment Analysis](https://github.com/a7med-Talaat/movie-review-sentiment-analysis)
-End-to-end NLP system classifying sentiment across massive movie review datasets — using **TF-IDF**, **Word Embeddings**, **LSTM**, and **Transformer-based models** with a comparative evaluation pipeline, deployed as a REST API with **FastAPI**.
+And here we go! Let's build something awesome.
