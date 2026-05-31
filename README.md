@@ -17,7 +17,7 @@ me = {
   "stack"   : ["Python", "PyTorch", "TensorFlow", "FastAPI", "Docker", "AWS"],
   "passion" : ["ML", "NLP", "MLOps", "Computer Vision"],
   "off-duty": ["Gaming", "Anime", "Reading"],
-  "status"  : "Open to new projects"
+  "status"  : "Open to new projects ✅"
 }
 ```
 
@@ -25,18 +25,16 @@ me = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7med-Talaat&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a7med-Talaat&theme=github_dark&utcOffset=3" width="48%"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=a7med-Talaat&cc=020408&tc=4f8dff&ic=8b5cf6&bc=0d1117&custom_title=Ahmed%20Talaat" width="48%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a7med-Talaat&theme=github_dark" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=a7med-Talaat&background=020408&fire=4f8dff&ring=8b5cf6&currStreakNum=4f8dff&sideNums=8b5cf6&sideLabels=06d6a0&dates=7a8599&hide_border=true&stroke=0d1117" width="48%"/>
 
 </div>
 
 ---
 
-### Selected Work
+### 🚀 Selected Work
 
-- **[Churn Predictor Pro](https://github.com/a7med-Talaat/Churn-Prediction-Project)** — Enterprise ML churn prediction with XGBoost, SHAP & Streamlit dashboard
-- **[CTRL-Sky Weather System](https://github.com/a7med-Talaat/CTRL-Sky-weather-prediction-system-nasaa-space-apps-challenge-solution-)** — NASA Space Apps Challenge · geospatial weather forecasting on AWS
-- **[Sentiment Analyzer](https://github.com/a7med-Talaat/movie-review-sentiment-analysis)** — NLP pipeline with LSTM & Transformers, served via FastAPI
+- 📉 **[Churn Predictor Pro](https://github.com/a7med-Talaat/Churn-Prediction-Project)** — Enterprise ML churn prediction with XGBoost, SHAP & Streamlit dashboard
+- 🌌 **[CTRL-Sky Weather System](https://github.com/a7med-Talaat/CTRL-Sky-weather-prediction-system-nasaa-space-apps-challenge-solution-)** — NASA Space Apps Challenge · geospatial weather forecasting on AWS
+- 💬 **[Sentiment Analyzer](https://github.com/a7med-Talaat/movie-review-sentiment-analysis)** — NLP pipeline with LSTM & Transformers, served via FastAPI
